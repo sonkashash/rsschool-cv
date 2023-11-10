@@ -43,7 +43,8 @@ function anagrams(str) {
  let res = (anagrams(str1)==anagrams(str2))? "YES" : "NO";
 
   
- fs.writeFileSync('output.txt', res);```
+ fs.writeFileSync('output.txt', res);
+ ```
  
 
 
