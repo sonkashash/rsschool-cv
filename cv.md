@@ -57,6 +57,8 @@ function anagrams(str) {
 * **HTML Academy (2023)**
     * Introduction to HTML and CSS
     * Javascript basics
+* **kts.studio(in progress)**
+    * Junior Reac tDeveloper
 
 *******************
 
