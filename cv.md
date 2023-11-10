@@ -4,7 +4,7 @@
 
 ## Contact information
 
-* **Location**:Armenia
+* **Location**: Armenia
 * **Phone:** 041 506561
 * **Discord:** Sofia Shashova(@sonkashash)
 * **Email:** Sophia.shashova@yandex.ru
