@@ -28,8 +28,8 @@ Now I’m taking small steps forward, there are difficulties along the way, but 
 
 ## Code example
 
-**Checking anagrams.
-2 lines with words are taken from an input.txt, and the answer 'yes' or 'no' is output to output.txt.**
+**Checking anagrams.**
+2 lines with words are taken from an input.txt, and the answer 'yes' or 'no' is output to output.txt.
 
 
 ```
@@ -42,10 +42,10 @@ function anagrams(str) {
     let sorted = str.toLowerCase().split("").sort().join("");
     return sorted;
 }
- let res = (anagrams(str1)==anagrams(str2))? "YES" : "NO";
+let res = (anagrams(str1)==anagrams(str2))? "YES" : "NO";
 
   
- fs.writeFileSync('output.txt', res);
+fs.writeFileSync('output.txt', res);
  ```
  
 
