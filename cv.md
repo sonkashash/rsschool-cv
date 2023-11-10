@@ -31,7 +31,7 @@ Now I’m taking small steps forward, there are difficulties along the way, but 
 >Checking anagrams.
 2 lines with words are taken from an input.txt, and the answer 'yes' or 'no' is output to output.txt.
   ```
-  const fs = require('fs');
+const fs = require('fs');
 const array = fs.readFileSync('input.txt').toString().split("\n");
 let str1 = array[0];
 let str2 = array[1];
