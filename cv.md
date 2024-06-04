@@ -21,8 +21,8 @@ Now I’m taking small steps forward, there are difficulties along the way, but 
 
 ## Skills
 
-* **Languages:** HTML, CSS, JavaScript, TypeScript
-* **Tools:**  Figma, Git/GitHub, VSCode, Node.js
+* **Languages:**  JavaScript, TypeScript, HTML, CSS
+* **Tools:**  Figma, Git/GitHub, VSCode, Node.js, Jest, React
 
 
 
@@ -62,12 +62,14 @@ fs.writeFileSync('output.txt', res);
     * Javascript basics
 * **kts.studio(in progress)**
     * Junior Reac tDeveloper
+* **Hexlet(in progress)**
+    * Frontend-developer
 
 
 
 ## Experience
 
-[Here are some educational  projects (stack: HTML, CSS)](адрес "https://github.com/sonkashash/Self-education")
+[Here are some educational  projects (stack: HTML, CSS)]("https://github.com/sonkashash")
 
 
 
